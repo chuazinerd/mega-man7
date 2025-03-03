@@ -2,4 +2,4 @@
 
 Repositório criado para praticar git
 
-![Megaman7repor](https://static.wikia.nocookie.net/esmegaman/images/d/d9/Bass-7.png)
+![Megaman7repor](mega_x_rush.png)
