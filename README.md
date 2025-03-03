@@ -2,4 +2,4 @@
 
 Repositório criado para praticar git
 
-![Megaman7repor](mega_x_rush.png)
+![Megaman7repor](mega_wp.png)
